@@ -26,8 +26,8 @@ I am an experienced engineer specializing in mathematical modeling, data-driven 
 
 -<strong>R. Najarzadeh</strong>, M. Hassan Asemani, M. Dehghani, and M. Shasadeghi, "Multi-Objective T-S Fuzzy Control of Covid-19 Spread Model: An LMI Approach," Biomedical Signal Processing and Control, p. 104107, 2022/08/18 , https://doi.org/10.1016/j.bspc.2022.104107.<br>
 -<strong>R. Najarzadeh</strong>, M. Dehghani, M. H. Asemani, and R. Abolpour, "Optimal Robust LPV Control Design for Novel Covid-19 Disease" (in eng), Journal of Control, Special issue vol. 14, no. 5, pp. 141-153, 2021 , https://doi.org/10.52547/joc.14.5.141 .<br>
-<br>
-- **CONFERENCE PAPERS**:
+
+- **CONFERENCE PAPERS**:<br>
 
 -<strong>R. Najarzadeh</strong>, M. Dehghani, M. H. Asemani, and A. Afsharinejad, "LPV Control of an Influenza Model with Vaccination and Antiviral Treatment," in 2021 7th International Conference on Control, Instrumentation and Automation (ICCIA), 2021, pp. 1-5: IEEE , https://doi.org/10.1109/ICCIA52082.2021.9403611.<br>
 -A. Karimzadeh, M. Dehghani, M. H. Asemani, and <strong>R. Najarzadeh</strong>, "Data-Driven Controller Design for a Synchronous Generator Connected to an Infinite Bus," in 2022 8th International Conference on Control, Instrumentation and Automation (ICCIA), 2022, pp. 1-5: IEEE , https://doi.org/10.1109/ICCIA54998.2022.9737178.<br>
