@@ -20,7 +20,9 @@ I am an experienced engineer specializing in mathematical modeling, data-driven 
 <br>
 
 ## Publications
+
 <div style="text-align: justify;">
+  
 **JOURNAL PAPERS**:
   
 -<b>R. Najarzadeh<b>, M. Hassan Asemani, M. Dehghani, and M. Shasadeghi, "Multi-Objective T-S Fuzzy Control of Covid-19 Spread Model: An LMI Approach," Biomedical Signal Processing and Control, p. 104107, 2022/08/18 , https://doi.org/10.1016/j.bspc.2022.104107.<br>
