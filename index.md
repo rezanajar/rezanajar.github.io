@@ -16,13 +16,13 @@ I am an experienced engineer specializing in mathematical modeling, data-driven 
 - **Epidemics Modeling and Control**
 - **Applications of Machine Learning in Biomedical Systems**
 - **T-S Fuzzy/LPV Modeling**
-
+<br>
 
 ## Publications
 
 <div style="text-align: justify;">
   
-- **JOURNAL PAPERS**:
+- **JOURNAL PAPERS**:<br>
 
 -<strong>R. Najarzadeh</strong>, M. Hassan Asemani, M. Dehghani, and M. Shasadeghi, "Multi-Objective T-S Fuzzy Control of Covid-19 Spread Model: An LMI Approach," Biomedical Signal Processing and Control, p. 104107, 2022/08/18 , https://doi.org/10.1016/j.bspc.2022.104107.<br>
 -<strong>R. Najarzadeh</strong>, M. Dehghani, M. H. Asemani, and R. Abolpour, "Optimal Robust LPV Control Design for Novel Covid-19 Disease" (in eng), Journal of Control, Special issue vol. 14, no. 5, pp. 141-153, 2021 , https://doi.org/10.52547/joc.14.5.141 .<br>
